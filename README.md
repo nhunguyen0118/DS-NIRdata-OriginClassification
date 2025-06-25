@@ -26,8 +26,6 @@ Each CSV file contains:
 - Wavelengths (900–1700 nm)
 - Absorbance values per sample
 
-📌 Note: Some samples are removed due to inconsistent formats (data extracted from different NIR devices).
-
 
 ## Workflow Overview
 
