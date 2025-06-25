@@ -79,6 +79,5 @@ Capstone Project/
 ├── sample_data.csv/ #synthetic file for demonstration only
 ├── capstoneproject.ipynb
 ├── images/ # PCA plots, confusion matrix, etc.
-├── NIR_full_data.csv
 └── README.md
 ```
