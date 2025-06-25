@@ -59,10 +59,7 @@ PCA was applied only for visualization, with a purpose to confirm that NIR spect
 
 Each model was evaluated using:
 
- **Accuracy**       
- **F1 Score**       
- **Classification Report**
- **Confusion Matrix**
+Accuracy, F1 Score, Classification Report, Confusion Matrix
 
 ## 🎯 Key Insights
 
@@ -77,10 +74,11 @@ Each model was evaluated using:
 - Expand dataset for more provinces and harvest seasons
 
 ## 📂 Folder Structure (after processing)
-
+```
 Capstone Project/
 ├── sample_data.csv/ #synthetic file for demonstration only
 ├── capstoneproject.ipynb
 ├── images/ # PCA plots, confusion matrix, etc.
 ├── NIRtieuxay_processed.csv
 └── README.md
+```
