@@ -58,11 +58,11 @@ PCA was applied only for visualization, with a purpose to confirm that NIR spect
 ## ✅ Evaluation Metrics
 
 Each model was evaluated using:
+
 | **Accuracy**       
 | **F1 Score**       
 | **Classification Report** 
 | **Confusion Matrix** 
-
 
 ## 🎯 Key Insights
 
