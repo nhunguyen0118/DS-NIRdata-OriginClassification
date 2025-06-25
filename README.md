@@ -12,7 +12,7 @@ We use NIR spectroscopy — a non-destructive and rapid technique — to analyze
 ## Dataset(confidential)
 Due to confidentiality agreements, the raw data is not publicly shared. For code demonstration, synthetic demo files are included under `/sample_data/`.
 
-The dataset is collected from ground black pepper measured via NIR devices.
+The raw dataset is collected from ground black pepper measured via NIR machine.
 
 📁 NIR data (ground)/
 ├── Date folders (e.g. 2022-06-23)/
