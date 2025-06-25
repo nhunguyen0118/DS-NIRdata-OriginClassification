@@ -34,7 +34,6 @@ Each CSV file contains:
    - Apply SNV (Standard Normal Variate): corrects scatter effects
    - Apply 1st or 2nd derivative (Savitzky-Golay filter): enhance peak features
    - StandardScaler: standardizes feature scale: standardizes feature scale
-   - (Exploratory Data Analysis)
     
 2. **EDA(Exploratory Data Analysis)**
 
