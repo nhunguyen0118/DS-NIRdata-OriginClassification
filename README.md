@@ -9,16 +9,17 @@ Authenticating the origin helps protect product value and regional branding, sup
 
 We use NIR spectroscopy — a non-destructive and rapid technique — to analyze pepper powder and build models that predict its province of origin.
 
-## Dataset(confidential)
+## Dataset (confidential)
 Due to confidentiality agreements, the raw data is not publicly shared. For code demonstration, synthetic demo files are included under `/sample_data/`.
 
 The raw dataset is collected from ground black pepper measured via NIR machine with structure as follow:
-
+```
 📁 NIR data (ground)/
 ├── Date folders (e.g. 2022-06-23)/
 │ └── Code folders (e.g. 00141_27)/
 │ └── CSV files of NIR spectra (e.g. Hadamard1_101209_20220623_170624.csv,...)
 📄 Info.xlsx → province mapping
+```
 
 
 Each CSV file contains:
