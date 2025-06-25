@@ -65,7 +65,7 @@ Accuracy, F1 Score, Classification Report, Confusion Matrix
 
 - PCA retains variance but discards class-relevant signals in this case.
 - Best results were obtained using **full features** with **SVM with SNV + Deriv1**.
-- NIR + ML is a promising approach for **geographical traceability** in agriculture.
+- NIR + ML is a promising approach for **geographical traceability** in Vietnamese agricultural products.
 
 ## 💡 Future Work
 
