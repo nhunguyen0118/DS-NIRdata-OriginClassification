@@ -49,7 +49,6 @@ PCA was applied only for visualization, with a purpose to confirm that NIR spect
 ### Preprocessing Combinations:
 - `SNV + Deriv1`
 - `SNV + Deriv2`
-- *(+ PCA variants for comparison)*
 
 ### Training:
 - 80/20 Train/Test Split
