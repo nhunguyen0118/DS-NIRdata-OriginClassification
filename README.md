@@ -7,7 +7,7 @@ This project aims to classify the geographical origin of ground black pepper sam
 Black pepper from different provinces can differ in chemical composition and quality.  
 Authenticating the origin helps protect product value and regional branding, supports Vietnam's initiatives to export high-quality, traceable black pepper to the EU market.
 
-We use NIR spectroscopy — a non-destructive and rapid technique — to analyze pepper powder and build models that predict its province of origin.
+We use NIR spectroscopy-a non-destructive and rapid technique - to analyze pepper powder and build models that predict its province of origin.
 
 ## Dataset (confidential)
 Due to confidentiality agreements, the raw data is not publicly shared. For code demonstration, synthetic demo files are included under `/sample_data/`.
